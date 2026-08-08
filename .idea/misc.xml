@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.14 (base)" />
+  </component>
+  <component name="MarkdownSettings">
+    <option name="customStylesheetText" value="@import url(./source/dyzj.css);&#10;&#10;:root {&#10;    /* dy color */&#10;    --select-text-bg-color: #ffafa3; /* 文本选中背景色（粉红） */&#10;    /*--primary-color: red;*/&#10;    --bg-color: white; /* 整体背景色（白色） */&#10;    --sidebarbg-color: white; /* 侧边栏背景色（白色） */&#10;    --focus-color: #ff5d52; /* 点击某些元素（如标题）显示的颜色（偏红） */&#10;    --codeblockbg-color: #eee; /* 代码块背景色（灰色） */&#10;    --codeblockfont-color: #555; /* 代码块默认字体颜色（黑色） */&#10;    --codeblockline-color: #e0f8f8; /* 代码块选中行颜色（青色） */&#10;    --titlebefore-color: #00c4b6; /* 各级标题点缀颜色（绿色） */&#10;    --codeblocknum-color: rgba(128, 128, 255, 0.8); /* 代码块行编号颜色（蓝色） */&#10;    --blockquoteicon-color: #5fa7e4; /* blockquote提示图标色（蓝色） */&#10;    --blockquotebg-color: #f4fcff; /* blockquote背景色（淡蓝） */&#10;    --ulol-color: #81accf; /* 有序无序列表前缀颜色（灰色） */&#10;    --olfore-color: #fff; /* 有序列表字体颜色（白色） */&#10;    --tableevenrow-color: #eee; /* 表格偶数行颜色（淡灰） */&#10;    --tablefocusrow-color: #e0f8f8; /* 表格鼠标悬停行颜色（淡蓝） */&#10;    --tableborder-color: #c5c5c5; /* 表格边框色（黑色） */&#10;    --tablethbg-color: #f4fcff; /* 表格表头背景色（淡蓝） */&#10;    --scrollbar-color: #9e9e9e; /* 滚动条颜色（灰色） */&#10;    --toc-color: #00a0a0; /* 目录颜色（绿色） */&#10;    --atext-color: black; /* 超链接文本颜色（黑色） */&#10;    --ahover-color: #ffffffe6; /* 超链接悬停文本颜色（白色） */&#10;    --abottom-color: #81d8cf; /* 超链接下划线颜色（青色） */&#10;    --code-color: #ff3502; /* 行内代码前景色（红色） */&#10;    --codebg-color: #f8f5ec; /* 行内代码背景色（淡红） */&#10;    --footnote-color: #e96900; /* 脚注上标前景色（红色） */&#10;    --footnotebg-color: #f8f8f8; /* 脚注上标背景色（淡灰） */&#10;    --highlight-color: red; /* 高亮文本前景色（红色） */&#10;    --highlightbg-color: yellow; /* 高亮文本背景色（黄色） */&#10;    --split-color: #00c4b6; /* 分割线颜色（绿色） */&#10;    --taskborder-color: red; /* 任务列表边框色（红色） */&#10;    --taskfocus-color: #00c4b6; /* 任务列表选中填充色（绿色） */&#10;    --spannote-color: #e91e64; /* 小标签背景色（红色） */&#10;    --emptext-color: #fe5f58; /* 几款强调型文本的颜色（红色） */&#10;    --hidetextcover-color: #a1a1a1; /* 隐藏文本遮罩颜色（灰色） */&#10;    --hidetext-color: #444; /* 隐藏文本颜色（黑色） */&#10;    --spanbtn-color: #44d7b6; /* 文本按钮颜色（绿色） */&#10;    --detailstxt-color: rgba(68,68,68,.7); /* 折叠框summary文字颜色（灰色） */&#10;    --detailsbg-color: #ebf9ed; /* 折叠框summary背景色（青绿色） */&#10;    --detailsborder-color: #00c4b6; /* 折叠框边框色（绿色） */&#10;    --body-color: #000000; /* 文本颜色（黑色） */&#10;    --para-color: #000000; /* 段落文本颜色（黑色） */&#10;    --commonstr-color: #232629; /* 常规字符串颜色（黑色） */&#10;    --commonstrbg-color: #e3e6e8; /* 常规字符串背景色（灰色） */&#10;    --timebodybg-color: #efeded; /* 时间轴主体部分背景色（灰色） */&#10;    --sidelist-selected-color: #eeeeee; /* 侧边栏条目选中背景色（灰色） */&#10;    --yamlbg-color: #f7f7f7; /* 头部YAML背景色（白色） */&#10;    --yaml-color: #585858; /* 头部YAML字体颜色（黑色） */&#10;    /* dy font */&#10;    --body-font: 'Source Sans Pro', '等距更纱黑体 SC', 'Helvetica Neue', Arial, sans-serif; /* 全局字体（&quot;Poppins&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, &quot;Noto Sans&quot;, &quot;Nimbus Sans L&quot;, Arial, &quot;Liberation Sans&quot;, &quot;Noto Sans CJK SC&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Source Han Sans SC&quot;, &quot;Source Han Sans CN&quot;, &quot;Microsoft YaHei&quot;, &quot;Wenquanyi Micro Hei&quot;, &quot;WenQuanYi Zen Hei&quot;, &quot;ST Heiti&quot;, SimHei, &quot;WenQuanYi Zen Hei Sharp&quot;, sans-serif;） */&#10;    --code-font: 'JetBrains Mono'; /* 代码块以及行内代码字体 */&#10;    /* bg image */&#10;    --bgimg-url: url(./bg-light.gif);&#10;}" />
+    <option name="useCustomStylesheetText" value="true" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <selected-state>
+          <State>
+            <id>用户定义</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (base)" project-jdk-type="Python SDK" />
+</project>
